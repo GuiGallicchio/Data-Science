@@ -1,1 +1,7 @@
-# Data_Science
+# Data Science
+
+* **Python**
+
+* **R**
+
+* **Estatisca**
